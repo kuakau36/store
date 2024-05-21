@@ -19,7 +19,6 @@
       "@lib/*": ["lib/*"],
       "@modules/*": ["modules/*"],
       "@pages/*": ["pages/*"],
-      "react": [ "./node_modules/@types/react" ]
     },
     "plugins": [
       {
